@@ -1,5 +1,7 @@
 # One Piece Sim
 
+[![onepiece-sim MCP connector](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/onepiece-sim/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/onepiece-sim)
+
 One Piece Sim is a **One Piece Card Game simulator** you add to Claude, ChatGPT, Cursor, or VS Code. Paste a deck and ask: Is this a legal Leader + 50 list? How often is this card stuck in Life? Goldfish this list.
 
 Operated by **FMF Tools**.

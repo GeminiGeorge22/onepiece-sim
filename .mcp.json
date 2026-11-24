@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "onepiece-sim": {
+      "type": "http",
+      "url": "https://onepiece-sim.fmf-x402.workers.dev/mcp"
+    }
+  }
+}
